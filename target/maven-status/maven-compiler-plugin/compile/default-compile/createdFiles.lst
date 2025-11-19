@@ -1,0 +1,10 @@
+com\javeriana\parcialwebback\repository\ClinicaRepository.class
+com\javeriana\parcialwebback\dto\ClinicaDTO$ClinicaDTOBuilder.class
+com\javeriana\parcialwebback\controller\ClinicaController.class
+com\javeriana\parcialwebback\ParcialWebBackApplication.class
+com\javeriana\parcialwebback\dto\ClinicaDTO.class
+com\javeriana\parcialwebback\service\ClinicaService.class
+com\javeriana\parcialwebback\service\impl\ClinicaServiceImpl.class
+com\javeriana\parcialwebback\model\Clinica.class
+com\javeriana\parcialwebback\config\ModelMapperConfig.class
+com\javeriana\parcialwebback\model\Clinica$ClinicaBuilder.class
